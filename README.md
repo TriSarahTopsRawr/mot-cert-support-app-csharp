@@ -2,6 +2,7 @@
 This project is a simple time sheet manager application. It allows users to log in to the application and add time sheet entries. Users can log in as either standard or admin users with admin users being able to create new timesheets, users and view reports.
 
 ## Getting Started
+Making a change to test git process
 
 ### Prerequisites
 To build and run this project you will require the following:
